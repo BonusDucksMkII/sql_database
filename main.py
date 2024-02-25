@@ -33,7 +33,6 @@ def main(argv):
     # .commit method commits changes to db
     # .close method closes Connection object
     # Single quotes for string literals in SQL
-    ms_to_min(206005)
 
     # PRAGMA table_info(table name);
     sqlcur = connection.cursor()

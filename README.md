@@ -5,7 +5,7 @@ I wrote this to practice writing SQL queries and to get a feel of using
 
 Below is a link to a video demonstrating this program:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5WbXbQNkQYU)
 
 # Relational Database
 
